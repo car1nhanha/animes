@@ -1,16 +1,16 @@
 export const one = [
-  "/poster/cards/item-01.png",
-  "/poster/cards/item-02.png",
-  "/poster/cards/item-03.png",
-  "/poster/cards/item-04.png",
-  "/poster/cards/item-05.png",
-  "/poster/cards/item-06.png",
-  "/poster/cards/item-07.png",
-  "/poster/cards/item-08.png",
-  "/poster/cards/item-09.png",
-  "/poster/cards/item-10.png",
-  "/poster/cards/item-11.png",
-  "/poster/cards/item-12.png",
+  "public/poster/cards/Item-01.png",
+  "public/poster/cards/item-02.png",
+  "public/poster/cards/item-03.png",
+  "public/poster/cards/item-04.png",
+  "public/poster/cards/item-05.png",
+  "public/poster/cards/item-06.png",
+  "public/poster/cards/item-07.png",
+  "public/poster/cards/item-08.png",
+  "public/poster/cards/item-09.png",
+  "public/poster/cards/item-10.png",
+  "public/poster/cards/item-11.png",
+  "public/poster/cards/item-12.png",
 ];
 
 export const two = [
