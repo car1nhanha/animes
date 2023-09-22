@@ -10,7 +10,7 @@ import {
 export const Header = () => {
   return (
     <HeaderContainer>
-      <HeaderImage src="public/icon.png" />
+      <HeaderImage src="/icon.png" />
       <HeaderTitle>Assista aos melhores animes</HeaderTitle>
       <HeaderSubtitle>Faça o download agora mesmo</HeaderSubtitle>
       <HeaderButton onClick={() => alert("colocar o link do .exe aqui")}>
