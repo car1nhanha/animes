@@ -1,0 +1,30 @@
+export const one = [
+  "/public/poster/01/item-01.png",
+  "/public/poster/01/item-02.png",
+  "/public/poster/01/item-03.png",
+  "/public/poster/01/item-04.png",
+  "/public/poster/01/item-05.png",
+  "/public/poster/01/item-06.png",
+  "/public/poster/01/item-07.png",
+  "/public/poster/01/item-08.png",
+  "/public/poster/01/item-09.png",
+  "/public/poster/01/item-10.png",
+  "/public/poster/01/item-11.png",
+  "/public/poster/01/item-12.png",
+];
+
+export const two = [
+  "/public/poster/01.webp",
+  "/public/poster/02.jpeg",
+  "/public/poster/03.webp",
+  "/public/poster/04.webp",
+  "/public/poster/05.webp",
+  "/public/poster/06.jpeg",
+  // "/public/poster/01/item-06.png",
+  // "/public/poster/01/item-07.png",
+  // "/public/poster/01/item-08.png",
+  // "/public/poster/01/item-09.png",
+  // "/public/poster/01/item-10.png",
+  // "/public/poster/01/item-11.png",
+  // "/public/poster/01/item-12.png",
+];
