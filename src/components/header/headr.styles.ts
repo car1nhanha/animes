@@ -34,7 +34,8 @@ export const HeaderSubtitle = styled.h2`
   letter-spacing: 1.8px;
 `;
 
-export const HeaderButton = styled.button`
+export const HeaderButton = styled.a`
+  text-decoration: none;
   border: none;
   cursor: pointer;
   display: flex;
